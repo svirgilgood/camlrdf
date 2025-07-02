@@ -1,0 +1,4 @@
+(executable
+ (public_name caml-rdf)
+ (name main)
+ (libraries caml_rdf rdf prelude ))
